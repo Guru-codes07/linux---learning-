@@ -140,6 +140,5 @@ The terminal screen is cleared.
 | `cd -`   | Move to the previous directory        |
 | `clear`  | Clear the terminal screen             |
 
-```
-```
+
 
